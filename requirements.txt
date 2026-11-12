@@ -1,0 +1,7 @@
+cvxpy>=1.5
+highspy
+numpy
+pandas
+entsoe-py
+plotly
+streamlit
